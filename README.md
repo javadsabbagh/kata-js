@@ -1,1 +1,1 @@
-# kata-react
+# Kata-Js
