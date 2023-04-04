@@ -1,20 +1,8 @@
 {
-  "name": "pine-ui",
+  "name": "react-ant-design",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "author": {
-    "name": "Pine Cloud Developers",
-    "email": "",
-    "url": ""
-  },
-  "license": "Apache-2.0",
-  "licenses": [
-    {
-      "type": "Apache-2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0"
-    }
-  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
