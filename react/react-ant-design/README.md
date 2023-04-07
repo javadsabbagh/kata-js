@@ -5,10 +5,6 @@ It's a Yarn+Vite React project:
 yarn create vite
 ```
 First, choose project name, then choose react, and choose Javascript at the final step.
-- Add ant-design dependency
-```
-yard add antd
-```
 - Run project
 ```
 yarn run dev
@@ -16,4 +12,17 @@ yarn run dev
 - Build project
 ```
 yarn run build
+```
+
+## Dependencies
+- **Ant Design**
+
+```
+yard add antd
+```
+
+- **React Browser Router**
+
+```
+yarn add react-router-dom
 ```
