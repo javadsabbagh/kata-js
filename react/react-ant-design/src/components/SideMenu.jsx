@@ -5,7 +5,7 @@ import React from "react";
 
 export default function SideMenu() {
     return (
-        <div>
+        <div style={{ display: "flex", flexDirection: "row" }}>
             <Menu
                 items={[
                     { label: "Home" },
@@ -16,7 +16,14 @@ export default function SideMenu() {
                 ]}
             >
             </Menu>
+
         </div>
     )
 }
 
+
+function Content() {
+    return <div>
+        Content
+    </div>
+}
